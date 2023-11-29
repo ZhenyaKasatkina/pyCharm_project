@@ -9,6 +9,3 @@ def subtract(num_1, num_2):
     return difference_numbers
 
 
-number_x = sum_up(1, 2)
-number_y = sum_up(5, 2)
-print(number_x, number_y)
